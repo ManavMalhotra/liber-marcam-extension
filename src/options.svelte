@@ -47,7 +47,7 @@
 </script>
 <h6>Configuration</h6>
 <div class="divider"></div>
-<p>This is a companion extension for the <a href="https://github.com/sissbruecker/linkding">linkding</a> bookmark
+<p>This is a companion extension for the <a href="https://github.com/ManavMalhotra/liber-marcam-extension">Liber Marcam</a> bookmark
   service. Before you can start using it you have to configure some basic settings, so that the extension can
   communicate with your linkding installation.</p>
 <form class="form" on:submit|preventDefault={handleSubmit}>
